@@ -1,19 +1,25 @@
 
 
- h1 { 
+ h1 
 
- 	color: black; 
-
- 	}
+ { color: black; }
 
 
-.table { 
-	
-	align-self: center;
+.table 
+
+{ 	align-self: center; 
 	border: 5px solid #ff6b6b;
-	width: 30%;
-		}
+	width: 50%;
+	padding-bottom: 70%;
+}
 
+
+#Spaghetti, #Tomatensoep, #Kroketten, #Pannenkoeken, #Garnalen, #Hotdog, #Burger, #Sorbet, #Water, #Cola, #Fanta, #Appelsiensap 
+{ padding-left: 80px;  }
+
+
+#Appelsiensap 
+{ padding-bottom: 5%; }
 
 
 
