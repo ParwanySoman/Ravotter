@@ -19,10 +19,10 @@ padding-bottom: 70%;}
 { padding-right: 80px; }
 
 
-#carouselExampleCaptions 
-{ width: 50%;
-height: 50%;
-margin:auto;
-position: relative;
-    .transition(.6s ease-in-out left); } 
+#eerstekolom { background-color: #FFE66D; }
+#tweedekolom { background-color: #ff6b6b; }
+#derdekolom { background-color:  #FFE66D; }
+
+
+
 
