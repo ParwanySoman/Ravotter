@@ -1,15 +1,9 @@
 
-
- 
-
-
 .table 
-
-{ 	align-self: center; 
-	border: 5px solid #ff6b6b;
-	width: 50%;
-	padding-bottom: 70%;
-}
+{ align-self: center; 
+border: 5px solid #ff6b6b;
+width: 50%;
+padding-bottom: 70%;}
 
 
 #Spaghetti, #Tomatensoep, #Kroketten, #Pannenkoeken, #Garnalen, #Hotdog, #Burger, #Sorbet, #Water, #Cola, #Fanta, #Appelsiensap 
@@ -21,5 +15,14 @@
 
 
 
-#een, #twee, #drie, #vier, #vijf, #zes, #zeven, #acht, #negen, #tien, #elf, #twaalf { padding-right: 80px; }
+#een, #twee, #drie, #vier, #vijf, #zes, #zeven, #acht, #negen, #tien, #elf, #twaalf
+{ padding-right: 80px; }
+
+
+#carouselExampleCaptions 
+{ width: 50%;
+height: 50%;
+margin:auto;
+position: relative;
+    .transition(.6s ease-in-out left); } 
 
